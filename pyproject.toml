@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "todo app"
+version = "0.1.0"
+description = ""
+authors = ["abolfazl jazak <jazakabolfazl@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+fastapi = "^0.112.0"
+uvicorn = "^0.30.5"
+commitizen = "^3.28.0"
+
+
+
+[tool.commitizen]
+name = "cz_conventional_commits"
+tag_format = "$version"
+version_scheme = "pep440"
+version_provider = "poetry"
+update_changelog_on_bump = true
+major_version_zero = true
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
