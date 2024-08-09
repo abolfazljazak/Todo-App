@@ -1,3 +1,10 @@
+## 0.4.0 (2024-08-09)
+
+### Feat
+
+- **main**: added CRUD operations Todos
+- **main,-database**: added get_db and refactored main, database
+
 ## 0.3.0 (2024-08-09)
 
 ### Feat
