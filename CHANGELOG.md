@@ -1,3 +1,10 @@
+## 0.6.0 (2024-08-11)
+
+### Feat
+
+- **auth**: added hash password with passlib, bcrypt
+- **models**: added table users and added user-fk to model todo
+
 ## 0.5.0 (2024-08-11)
 
 ### Feat
