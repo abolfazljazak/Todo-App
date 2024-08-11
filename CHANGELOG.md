@@ -1,3 +1,9 @@
+## 0.7.0 (2024-08-12)
+
+### Feat
+
+- **auth**: Added JWT and all its dependencies
+
 ## 0.6.0 (2024-08-11)
 
 ### Feat
