@@ -11,6 +11,8 @@ fastapi = "^0.112.0"
 uvicorn = "^0.30.5"
 commitizen = "^3.28.0"
 sqlalchemy = "^2.0.32"
+passlib = "^1.7.4"
+bcrypt = "^4.2.0"
 
 
 
